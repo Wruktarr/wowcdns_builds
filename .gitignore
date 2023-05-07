@@ -1,0 +1,10 @@
+# <wowcdns_builds> [.gitignore]
+# ignore
+*
+
+# include
+!.gitignore
+!~rls/*
+!patch/*
+!updater/*
+!readme.md
